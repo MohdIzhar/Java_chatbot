@@ -1,2 +1,2 @@
-# Java_code
-A server client chat bot application 
+# SERVER CLIENT CHATBOT
+Basic Java based server client chatbot application.
